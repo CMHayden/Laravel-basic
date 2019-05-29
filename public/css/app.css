@@ -10662,3 +10662,12 @@ a.text-dark:focus {
   }
 }
 
+nav {
+  margin-bottom: 25px;
+}
+
+.card {
+  padding: 25px 15px;
+  margin-bottom: 20px;
+}
+
